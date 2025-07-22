@@ -16,7 +16,7 @@ Al Maali is an educational Flutter application designed to help children learn A
 
 ## Screenshots
 
-> _Add screenshots here to showcase the app UI_
+> ![ Application ](assets/al_maali.png)
 
 ## Getting Started
 
